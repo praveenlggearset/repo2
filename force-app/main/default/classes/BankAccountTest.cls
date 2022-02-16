@@ -6,11 +6,17 @@ public class BankAccountTest {
         ba.checkBalance();
         ba.countCustomer();
         ba.deposit(1520);
+
         /*
         ba.withDraw(100);
         Bank_Account ba1 = new Bank_Account('Testaccount',121315,1245);
         ba.setValues('Testaccount1',1213115,1345);
         */
+
+        
+        
+        // THis is test comment as well
+
         //ba.getValues();
         ba.withDraw(100);
         Bank_Account ba1 = new Bank_Account('Testaccount',121315,1245);
