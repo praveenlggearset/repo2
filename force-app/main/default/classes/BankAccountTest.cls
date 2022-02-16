@@ -12,5 +12,9 @@ public class BankAccountTest {
         Bank_Account ba1 = new Bank_Account('Testaccount',121315,1245);
         ba.setValues('Testaccount1',1213115,1345);
         
+        publis static void newMethod(){
+            system.debug('test method');
+        }
+        
     }
 }
